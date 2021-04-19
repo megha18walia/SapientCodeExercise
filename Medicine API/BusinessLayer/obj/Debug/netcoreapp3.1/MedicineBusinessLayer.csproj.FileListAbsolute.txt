@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Debug\netcoreapp3.1\MedicineBusinessLayer.deps.json
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Debug\netcoreapp3.1\MedicineBusinessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Debug\netcoreapp3.1\MedicineBusinessLayer.pdb
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Debug\netcoreapp3.1\MedicineBusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Debug\netcoreapp3.1\MedicineBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Debug\netcoreapp3.1\MedicineBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Debug\netcoreapp3.1\MedicineBusinessLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Debug\netcoreapp3.1\MedicineBusinessLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Debug\netcoreapp3.1\MedicineBusinessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Debug\netcoreapp3.1\MedicineBusinessLayer.pdb

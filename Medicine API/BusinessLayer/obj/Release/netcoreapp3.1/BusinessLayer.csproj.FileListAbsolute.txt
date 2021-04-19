@@ -1,0 +1,24 @@
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.dll
+C:\Users\hp\source\repos\TaskPlannerAPI - Copy\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.pdb

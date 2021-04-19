@@ -1,0 +1,127 @@
+<div style="text-align: center">
+  <h1>Medicine Display</h1>
+  <div>
+    <a href="JavaScript:Void(0);" (click)="show()"> Edit Medicine </a>
+  </div>
+  <br />
+  <div>
+    <table class="table table-bordered" style="width: 50%; margin: auto">
+      <tr>
+        <td scope="col"><span class="">Medicine Name</span></td>
+        <td scope="col">{{ medicines.name }}</td>
+      </tr>
+      <tr>
+        <td scope="col"><span class="">Brand</span></td>
+        <td scope="col">{{ medicines.brand }}</td>
+      </tr>
+      <tr>
+        <td scope="col"><span class="">Quantity</span></td>
+        <td scope="col">{{ medicines.quantity }}</td>
+      </tr>
+      <tr>
+        <td scope="col"><span class="">Expiry</span></td>
+        <td scope="col">{{ getFormattedDate(medicines.expiryDate) }}</td>
+      </tr>
+      <tr>
+        <td scope="col"><span class="">Notes</span></td>
+        <td scope="col">{{ medicines.notes }}</td>
+      </tr>
+    </table>
+  </div>
+  <div style="float: right; margin-right: 50px"></div>
+  <a href="/">Go back</a>
+
+  <div class="container">
+    <!-- The Modal -->
+    <div
+      class="modal"
+      id="myModal"
+      [style.display]="showModal ? 'block' : 'none'"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <!-- Modal Header -->
+          <div class="modal-header">
+            <h4 class="modal-title">{{ title }}</h4>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              (click)="hide()"
+            >
+              &times;
+            </button>
+          </div>
+
+          <!-- Modal body -->
+          <div class="modal-body" style="text-align: left">
+            <div class="form-group">
+              <label>Medicine Name</label>
+              <input
+                class="form-control form-control-sm"
+                [(ngModel)]="medicines.name"
+              />
+            </div>
+            <div class="form-group">
+              <label>Brand</label>
+              <input
+                class="form-control form-control-sm"
+                [(ngModel)]="medicines.brand"
+              />
+            </div>
+            <div class="form-group">
+              <label>Quantity</label>
+              <input
+                class="form-control form-control-sm"
+                [(ngModel)]="medicines.quantity"
+              />
+            </div>
+            <div class="form-group">
+              <label>Expiry Date</label>
+              <input
+                class="form-control form-control-sm"
+                [(ngModel)]="medicines.expiryDate"
+              />
+            </div>
+            <div class="form-group">
+              <label>Notes</label>
+              <input
+                class="form-control form-control-sm"
+                [(ngModel)]="medicines.notes"
+              />
+            </div>
+          </div>
+
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-success"
+              data-dismiss="modal"
+              (click)="
+                update({
+                  id: medicines.id,
+                  name: medicines.name,
+                  brand: medicines.brand,
+                  quantity: medicines.quantity,
+                  price: medicines.price,
+                  expiryDate: medicines.expiryDate,
+                  notes: medicines.notes
+                })
+              "
+            >
+              Save
+            </button>
+            <button
+              type="button"
+              class="btn btn-danger"
+              data-dismiss="modal"
+              (click)="hide()"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
